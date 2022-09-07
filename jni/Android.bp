@@ -30,7 +30,6 @@ cc_library_shared {
     shared_libs: [
         "libandroid_runtime",
         "libbinder",
-        "libbluetooth-binder",
         "libchrome",
         "libnativehelper",
         "liblog",
